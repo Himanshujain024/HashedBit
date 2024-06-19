@@ -1,1 +1,1 @@
-# HashedBit
+HashedBIT projects
